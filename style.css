@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif;
+  background-image: url(foxy.jpg);
+  background-color: #38bfce;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  background-color: #3f85da;
+  color: #ffffff;
+  padding: 10px;
+  text-align: center;
+}
+
+#item {
+  width: 70%;
+  padding: 10px;
+  margin: 10px auto;
+  display: block;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 14px auto;
+  display: block;
+  background-color: #d42e2e;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #6dcb3b;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  background-color: #fff;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+li:hover {
+  background-color: #f0f0f0;
+}
